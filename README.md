@@ -5,19 +5,21 @@ Streamline your classification workflows with this versatile toolbox, packing da
 Welcome to the Sklearn Classification Toolkit!
 Explore a collection of functions meticulously crafted to streamline your workflow, spanning data preparation, model fitting, evaluation, and visualization.
 
+
 Key features:
 
 Data Preprocessing:
 
-Effortlessly handle missing values
-Normalize or standardize features to enhance model performance
-Craft meaningful feature interactions to uncover hidden patterns
+- handle missing values
+- Normalize or standardize features to enhance model performance
+
+
 Classification Models:
 
-Logistic Regression (with cross-validation)
-K-Means Clustering (for unsupervised classification)
-K-Nearest Neighbors (with cross-validation)
-Support Vector Machines (with cross-validation)
-Decision Trees (with cross-validation)
-Random Forests (with cross-validation)
-Ensemble Classification (intelligently combining multiple models for superior accuracy)
+- Logistic Regression (with cross-validation)
+- K-Means Clustering (for unsupervised classification)
+- K-Nearest Neighbors (with cross-validation)
+- Support Vector Machines (with cross-validation)
+- Decision Trees (with cross-validation)
+- Random Forests (with cross-validation)
+- Ensemble Classification (intelligently combining multiple models for superior accuracy)
